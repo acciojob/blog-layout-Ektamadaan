@@ -1,1 +1,36 @@
-/*  your css code here. If applicable */
+.container{
+	background-color : lightgray ;
+	display : flex ;
+	justify-content : space-around ;
+	flex-wrap : wrap ;
+}
+.news{
+	background-color : white ;
+	height : 200px ;
+	width : 180px ;
+	margin : 20px ;
+}
+.reviews{
+	background-color : white ;
+	height : 200px ;
+	width : 180px ;
+	margin : 20px ;
+}
+.news{
+	background-color : white ;
+	height : 200px ;
+	width : 180px ;
+	margin : 20px ;
+}
+.tips{
+	background-color : white ;
+	height : 200px ;
+	width : 180px ;
+	margin : 20px ;
+}
+.interviews{
+	background-color : white ;
+	height : 200px ;
+	width : 180px ;
+	margin : 20px ;
+}
