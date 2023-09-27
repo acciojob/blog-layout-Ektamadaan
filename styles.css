@@ -4,33 +4,14 @@
 	justify-content : space-around ;
 	flex-wrap : wrap ;
 }
-.news{
+.blog-column{
 	background-color : white ;
-	height : 200px ;
-	width : 180px ;
+	line-height : 2 ;
+	height : 270px ;
+	width : 220px ;
 	margin : 20px ;
+	text-align : center ;
 }
-.reviews{
-	background-color : white ;
-	height : 200px ;
-	width : 180px ;
-	margin : 20px ;
-}
-.news{
-	background-color : white ;
-	height : 200px ;
-	width : 180px ;
-	margin : 20px ;
-}
-.tips{
-	background-color : white ;
-	height : 200px ;
-	width : 180px ;
-	margin : 20px ;
-}
-.interviews{
-	background-color : white ;
-	height : 200px ;
-	width : 180px ;
-	margin : 20px ;
-}
+
+
+	
